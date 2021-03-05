@@ -31,7 +31,7 @@ var prefix = (function () {
 })();
 var pre = (document.createElement('div').style['WebkitTransform'] != undefined) ? '-webkit-' : '';
 var useSwipe = true;
-var pageMode = 'h';
+var pageMode = 'fade';
 var pageW = 1023, pageH = 768;
 var multifile = false;
 if(multifile) { 
