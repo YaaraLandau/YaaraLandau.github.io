@@ -3315,3 +3315,4 @@ html[data-dir="rtl"] nav#page-nav > #backBtn, html:not([data-dir="rtl"]) nav#pag
 	left:240px !important;
 	top:726px !important;
 }
+#in5footer,  #prefooter {display:none;}
